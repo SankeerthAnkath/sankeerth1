@@ -1,0 +1,21 @@
+body{
+    padding-left: 30%;
+}
+.Table{
+    width: 500px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+.Table1{
+    width: 500px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+h3{
+    width: max-content;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
